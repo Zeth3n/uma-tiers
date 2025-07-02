@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/uma-tiers/static/css/main.68c50f2b.css",
-    "main.js": "/uma-tiers/static/js/main.93aca1fc.js",
+    "main.js": "/uma-tiers/static/js/main.935a713b.js",
     "static/js/453.171f3325.chunk.js": "/uma-tiers/static/js/453.171f3325.chunk.js",
     "index.html": "/uma-tiers/index.html",
     "main.68c50f2b.css.map": "/uma-tiers/static/css/main.68c50f2b.css.map",
-    "main.93aca1fc.js.map": "/uma-tiers/static/js/main.93aca1fc.js.map",
+    "main.935a713b.js.map": "/uma-tiers/static/js/main.935a713b.js.map",
     "453.171f3325.chunk.js.map": "/uma-tiers/static/js/453.171f3325.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.68c50f2b.css",
-    "static/js/main.93aca1fc.js"
+    "static/js/main.935a713b.js"
   ]
 }
