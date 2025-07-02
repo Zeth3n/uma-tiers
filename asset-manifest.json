@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/umamusume-global-tierlist/static/css/main.68c50f2b.css",
-    "main.js": "/umamusume-global-tierlist/static/js/main.9e87502b.js",
-    "static/js/453.171f3325.chunk.js": "/umamusume-global-tierlist/static/js/453.171f3325.chunk.js",
-    "index.html": "/umamusume-global-tierlist/index.html",
-    "main.68c50f2b.css.map": "/umamusume-global-tierlist/static/css/main.68c50f2b.css.map",
-    "main.9e87502b.js.map": "/umamusume-global-tierlist/static/js/main.9e87502b.js.map",
-    "453.171f3325.chunk.js.map": "/umamusume-global-tierlist/static/js/453.171f3325.chunk.js.map"
+    "main.css": "/uma-tiers/static/css/main.68c50f2b.css",
+    "main.js": "/uma-tiers/static/js/main.5d82f584.js",
+    "static/js/453.171f3325.chunk.js": "/uma-tiers/static/js/453.171f3325.chunk.js",
+    "index.html": "/uma-tiers/index.html",
+    "main.68c50f2b.css.map": "/uma-tiers/static/css/main.68c50f2b.css.map",
+    "main.5d82f584.js.map": "/uma-tiers/static/js/main.5d82f584.js.map",
+    "453.171f3325.chunk.js.map": "/uma-tiers/static/js/453.171f3325.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.68c50f2b.css",
-    "static/js/main.9e87502b.js"
+    "static/js/main.5d82f584.js"
   ]
 }
